@@ -502,7 +502,7 @@ export default function ProfileContent({
             <p style={{ color: theme.textMid, marginBottom: '28px', fontSize: '1rem', maxWidth: '460px', margin: '0 auto 28px' }}>
               {t.ctaText}
             </p>
-            <a href="https://profil.dev/sv" style={{
+            <a href="https://source-two-beta.vercel.app/" style={{
               display: 'inline-flex', alignItems: 'center', gap: '10px',
               padding: '14px 30px', borderRadius: '8px',
               fontFamily: "'Space Mono', monospace", fontSize: '0.82rem', letterSpacing: '0.1em',

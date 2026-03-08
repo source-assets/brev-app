@@ -1,5 +1,5 @@
 import { notFound } from 'next/navigation'
-import { getLetter } from '../../lib/getLetters'
+import { getLetter } from '@/lib/getLetters'
 import ProfileContent from '../../components/ProfileContent'
 
 interface Props {
